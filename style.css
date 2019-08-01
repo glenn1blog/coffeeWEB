@@ -40,6 +40,7 @@ nav a {
 }
 nav a:hover {
     background-color: rgba(250, 71, 0, 0.5);
+    border-radius: 10px 10px 0 0;
 }
 #logo {
     /* 字體大小 fz2e */
@@ -69,6 +70,7 @@ nav div a{
 }
 #container a {
     border: 2px solid #fff;
+    border-radius: 15px;
     padding: 10px 20px;
     background-color: rgba(250, 71, 0, 0.5);
     transition: 0.3s;
