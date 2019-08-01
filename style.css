@@ -33,7 +33,7 @@ a {
 /* 導覽列 */
 nav a {
     /* 邊框底線 bdb */
-    border-bottom: 1.5px solid #fff;
+    border-bottom: 4px solid #fff;
     /* 內距 p */
     padding: 2px;
     transition: 0.3s;
